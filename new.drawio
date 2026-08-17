@@ -308,7 +308,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_7WBlkpsChOfm0QKkbB-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;Target Object Abstraction&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="270" x="1933" y="280" as="geometry" />
+          <mxGeometry height="70" width="270" x="1855" y="280" as="geometry" />
         </mxCell>
         <mxCell id="L4-gGMvBBUmdFSA4iTQn-1" edge="1" parent="1" source="Kc__YAfq_uzqy0gbVmlv-1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -320,7 +320,7 @@
           <mxGeometry height="70" width="270" x="1610" y="585" as="geometry" />
         </mxCell>
         <mxCell id="L4-gGMvBBUmdFSA4iTQn-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Constraint-Aware&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Planning&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="270" x="2165" y="583.13" as="geometry" />
+          <mxGeometry height="70" width="270" x="2111.25" y="584" as="geometry" />
         </mxCell>
         <mxCell id="L4-gGMvBBUmdFSA4iTQn-4" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#B3B3B3;strokeColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" target="lUUnt3O9R1-Jwf1bqYOY-3" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
