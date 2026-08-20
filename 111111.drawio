@@ -233,7 +233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Qwen2.5最终版" id="joJq3TvXoCa6lfpl0OAF">
-    <mxGraphModel dx="5057" dy="1365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="5900" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -428,6 +428,9 @@
         </mxCell>
         <mxCell id="JNkBjSGCNWtbBkhTv_IM-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Target object&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="140" x="2540" y="1699.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xnmY_HADDAqTFovi34FR-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" value="" vertex="1">
+          <mxGeometry height="1120" width="4060" x="580" y="3670" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
